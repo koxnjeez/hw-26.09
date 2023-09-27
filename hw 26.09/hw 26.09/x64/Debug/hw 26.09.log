@@ -1,0 +1,6 @@
+﻿  hw 26.09.cpp
+C:\Users\User\Desktop\hw 26.09\hw 26.09\hw 26.09.cpp(12,23): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\hw 26.09\hw 26.09\hw 26.09.cpp(12,47): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\hw 26.09\hw 26.09\hw 26.09.cpp(15,24): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\hw 26.09\hw 26.09\hw 26.09.cpp(19,24): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  hw 26.09.vcxproj -> C:\Users\User\Desktop\hw 26.09\x64\Debug\hw 26.09.exe
